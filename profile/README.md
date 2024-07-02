@@ -1,6 +1,6 @@
 ### Vision
 <p align="center">
- Empowering society with technology enchacing the quality environment.
+ Empowering society with technology for better environment.
 </p>
 
 ### Our Products
